@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AntiNorthwood", "AntiNorthwood\AntiNorthwood.csproj", "{3F605E5F-B7B0-4866-8E41-EA3A33B6F8AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F605E5F-B7B0-4866-8E41-EA3A33B6F8AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F605E5F-B7B0-4866-8E41-EA3A33B6F8AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F605E5F-B7B0-4866-8E41-EA3A33B6F8AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F605E5F-B7B0-4866-8E41-EA3A33B6F8AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CA03176-916F-440F-92E3-DDE59C6E4C41}
+	EndGlobalSection
+EndGlobal
