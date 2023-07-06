@@ -15,7 +15,7 @@ namespace AntiNorthwood
         {
             if (ev.UserId.Contains("@northwood"))
             {
-                ev.Reject($"{Plugin.Singleton.Config.message}", true);
+                ev.Reject(Plugin.Singleton.Config.message, true);
             }
         }
     }
