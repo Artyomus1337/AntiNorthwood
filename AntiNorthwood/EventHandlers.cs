@@ -9,9 +9,7 @@ namespace AntiNorthwood
 {
     public class EventHandlers
     {
-        private static Plugin plugin;
-        public EventHandlers(Plugin P) => plugin = P;
-        internal void OnFurryJoin(PreAuthenticatingEventArgs ev)
+        public void OnFurryJoin(PreAuthenticatingEventArgs ev)
         {
             if (ev.UserId.Contains("@northwood"))
             {
